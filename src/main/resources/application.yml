@@ -23,3 +23,8 @@ spring:
 logging.level:
   org.hibernate.SQL: debug
   org.hibernate.type: trace
+
+
+jwt:
+  header: Authorization
+  secret: asggsd65g4ds64g5ds64g56sd45f6a4df56as4f64as5fasf6a4s5fas65f4as456a56s4as564as56465as56as4654as65f465saf65sa654as654f564asdg654aset98e7t987qwegf321e32w1f321we3f16q4f65qe456f4qe65f4f65q65f4
